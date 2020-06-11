@@ -6,7 +6,8 @@ Resources for all machine learning related work
 - [Probability](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/prob-review.pdf)
 - [Linear Algebra](http://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
 
-## Papers
+## ML
+### Papers
 - ML Review. [Domingos 2012](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 ## Reinforcement Learning
