@@ -8,4 +8,4 @@ Resources for all machine learning related work
 - 
 
 ### Short Introductory Lectures
-- (Introduction to Reinforcement Learning](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+- [Introduction to Reinforcement Learning](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
