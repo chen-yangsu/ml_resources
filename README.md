@@ -6,6 +6,9 @@ Resources for all machine learning related work
 - [Probability](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/prob-review.pdf)
 - [Linear Algebra](http://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
 
+## Papers
+- ML Review. [Domingos 2012](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
 ## Reinforcement Learning
 ### Online Comprehensive Lectures
 - David Silver's UCL Introduction to Reinforcement Learning 10 Lecture series [online](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [lecture slides](https://www.davidsilver.uk/teaching/)
