@@ -3,7 +3,7 @@ Resources for all machine learning related work
 
 ## Reinforcement Learning
 ### Online Comprehensive Lectures
-- David Silver's UCL Intro to RL 10 Lectures [online](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- David Silver's UCL Introduction to Reinforcement Learning 10 Lecture series [online](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
   * Website for [lecture slides](https://www.davidsilver.uk/teaching/)
 - 
 
