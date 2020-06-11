@@ -1,5 +1,7 @@
-# ml_resources
+# ML 
 Resources for all machine learning related work
 
-## ML
+## Reinforcement Learning
+- David Silver Lectures [online](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+  * 
 - 
