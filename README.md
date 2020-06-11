@@ -4,12 +4,12 @@ Resources for all machine learning related work
 ## Reinforcement Learning
 ### Online Comprehensive Lectures
 - David Silver's UCL Introduction to Reinforcement Learning 10 Lecture series [online](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [lecture slides](https://www.davidsilver.uk/teaching/)
- * Lectures based on Sutton and Barto's 2nd Edition: Reinforcement Learning: An Introduction Textbook
+  * Lectures based on Sutton and Barto's 2nd Edition: Reinforcement Learning: An Introduction Textbook
 
 ### Textbooks
 - Sutton and Barto 2018. [Reinforcement Learning: An Introduction 2nd Edition](http://incompleteideas.net/book/the-book-2nd.html)
 - Szepesvari 2010. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
- * More rigorous, mathematical, but shorter (98 pages)
+  * More rigorous, mathematical, but shorter (98 pages)
 
 ### Short Introductory Lectures
 - [Introduction to Reinforcement Learning](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/) by Joelle Pineau
