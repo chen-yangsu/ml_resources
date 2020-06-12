@@ -32,3 +32,4 @@ Order to read the papers is in the order listed.
 
 ### Papers
 - Algorithms for Inverse Reinforcement Learning. [Ng & Russell 2000](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
+- [ ] Apprenticeship Learning via Inverse Reinforcement Learning. [Abbeel & Ng](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)
