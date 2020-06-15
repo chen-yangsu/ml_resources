@@ -31,5 +31,6 @@ No comprehensive textbook on the subject so refer to papers for an educational o
 Order to read the papers is in the order listed.
 
 ### Papers
-- Algorithms for Inverse Reinforcement Learning. [Ng & Russell 2000](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
-- Apprenticeship Learning via Inverse Reinforcement Learning. [Abbeel & Ng 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)
+1. Algorithms for Inverse Reinforcement Learning. [Ng & Russell 2000](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
+1. Apprenticeship Learning via Inverse Reinforcement Learning. [Abbeel & Ng 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)
+1. Maximum Entropy Inverse Reinforcement Learning. [Ziebart et al. 2008](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
